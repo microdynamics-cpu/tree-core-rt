@@ -1,5 +1,4 @@
 <p align="center">
-    <!-- <img width="200px" src="./.images/tree_core_logo.svg" align="center" alt="Tree Core CPU" /> -->
     <h2 align="center">TreeCore RT: The software runtime for the Simulation, ASIC and FPGA</h2>
 </p>
 <p align="center">
