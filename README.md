@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/microdynamics-cpu/tree-core-rt/actions">
-      <img src="https://img.shields.io/github/workflow/status/microdynamics-cpu/tree-core-rt/unit-test/main?label=unit-test&logo=github&style=flat-square">
+      <img src="https://img.shields.io/github/actions/workflow/status/microdynamics-cpu/tree-core-rt/unit-test.yml?branch=main&logo=github&style=flat-square">
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/microdynamics-cpu/tree-core-rt?color=brightgreen&logo=github&style=flat-square">
